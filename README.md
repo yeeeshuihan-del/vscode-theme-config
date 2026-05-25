@@ -17,6 +17,6 @@ Before applying these settings, please ensure you have installed the official Dr
 2. Search for and select: `> Preferences: Open User Settings (JSON)`.
 3. **Copy and Paste** the content of "settings.json" into your `settings.json` file.
 
-now it may takes effect. it should look like this(效果):
+### now it may takes effect. it should look like this:
 <img width="1893" height="972" alt="image" src="https://github.com/user-attachments/assets/d75c7ad2-1dd1-4fe2-808d-bf616939bda6" />
 
