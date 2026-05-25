@@ -1,19 +1,21 @@
-# vscode-theme-config
-English:
-vscode preference base on dracula theme(including both appearence and functionality)
+# VS Code Configuration based on Dracula Theme
 
-precondition:
-install "dracula theme", which can be found from "settings->theme->color theme->browser additional color theme"
+A curated `settings.json` configuration designed to enhance the **Dracula Theme** experience, covering both **appearance** and **functionality**.
 
-1.vscode quick search => ">Preference:open user settings(json)"
-2.pasting settings.json content direct.
+### 🛠️ Prerequisites
 
-中文（chinese）：
-一个基于德古拉主题的vscode ui配置（包括外观和功能的配置）
+Before applying these settings, please ensure you have installed the official Dracula Theme:
+1. Go to **Settings** > **Theme** > **Color Theme**.
+2. Select **Browse Additional Color Themes...**
+3. Search for and install **"Dracula Official"**.
 
-前置条件，安装德古拉主题，可以在settings->theme->color theme->browser additional color theme找到
-1.在顶部的搜索栏搜索">Preference:open user settings(json)"
-2.粘贴"setting.json"的内容
+---
+
+### ⚙️ How to Apply
+
+1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
+2. Search for and select: `> Preferences: Open User Settings (JSON)`.
+3. **Copy and Paste** the content of "settings.json" into your `settings.json` file.
 
 now it may takes effect. it should look like this(效果):
 <img width="1893" height="972" alt="image" src="https://github.com/user-attachments/assets/d75c7ad2-1dd1-4fe2-808d-bf616939bda6" />
